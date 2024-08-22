@@ -1,5 +1,5 @@
+https://github.com/EMARIUS98/Sentiment-Analysis/blob/main/images/food%20icon.png
 
-![Screenshot 2024-08-16 161130](https://github.com/user-attachments/assets/288da99d-6304-4caa-b306-b44eb19b7c82)
 
 
  # OVERVIEW 
