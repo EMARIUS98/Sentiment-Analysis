@@ -90,6 +90,12 @@ The tuned Random Forest offered both the highest accuracy score as well as the h
 We processed text data by encoding the review categories and vectorizing the text using TF-IDF. Then, we balanced the dataset using SMOTE to handle class imbalances. After splitting the data into training and testing sets, we trained a Random Forest classifier on the processed data and saved both the vectorizer and the trained model for future use.
  
 
+References:
+[Non technical Presentation](https://docs.google.com/presentation/d/1PTnCGTHmTGZjWk6cGjuV1I2KPVsotzXAxwG9T_Eqjs8/edit#slide=id.g13c7f5c3f0_0_1)
+[Application Deployment](https://foody-and-foodie.streamlit.app/)
+
+
+
  
  
                          
